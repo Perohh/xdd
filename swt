@@ -1,0 +1,34 @@
+Pflichtenheft:
+zusammenfassung
+zielbestimmung 
+einsatz und benutzerprofile
+produktfunktionen
+benutzungsoberfläche
+produktdaten
+qualitätsanforderungen und akzeptanzkriterien
+entwicklungs- und einsatzumgebung, schnittstellen
+(weitere nichtfunktionale anforderungen)
+glossar (und index)
+
+uml diagrammarten:
+klassen-und objektdiagramme
+use-case-diagramme
+sequenz- und kommunikationsdiagramme
+paketdiagramme
+aktivitätsdiagramme
+zustandsdiagramme
+
+Konfigurationsmanagement und versionskontrolle:
+ Vergleich lokaler Workspace mit dem zentralen Repository (Unterschiede=?)
+ Erzeugen eines neuen Entwicklungsstandes einer Datei / mehrerer Dateien
+ Sperren einer Datei für den ändernden Zugriff von anderen für den Zeitraum einer
+eigenen beabsichtigten Änderung; Freigabe gesetzter Sperren
+ lesender Zugriff auf einen gewünschten Entwicklungsstand einer Datei
+ Erzeugung einer neuen, dauerhaft zu speichernden Konfiguration
+ lesender Zugriff auf eine Konfiguration
+ (teil-)automatisierte Zusammenführung unterschiedlicher Branches
+ Vergleich zweier Entwicklungsstände einer Datei
+ Verarbeitung von Verwaltungsinformationen zu Entwicklungsständen,
+durchgeführten Änderungen, Konfigurationen usw.
+ Festlegung von Zugriffsrechten für einen größeren Entwicklerkreis
+
